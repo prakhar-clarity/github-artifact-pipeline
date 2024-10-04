@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   name: artifact-test
   labels:
-    name: artifact-test9
+    name: artifact-test10
